@@ -2,7 +2,7 @@
 layout: default
 title: 智慧城市与智能交通课题组
 ---
-[首页](index.html) | [研究方向](research.html) | [课题组成员](members.html) | [发表论文](publications.html)
+[首页](index.html) | [研究方向](research.html) | [课题组成员](members.html) | [发表论文](publications.html) | [加入我们](joinus.html)
 
 ---
 # 智慧城市与智能交通课题组 (ITS Lab)
