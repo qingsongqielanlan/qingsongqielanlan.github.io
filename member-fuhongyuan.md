@@ -9,7 +9,7 @@ title: 某某某 - 个人主页
 
 # 某某某
 
-<img src="[https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/avatar-placeholder.png" width="200" align="right](https://github.com/qingsongqielanlan/qingsongqielanlan.github.io/blob/main/images/https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/fuhongyuan.jpg)">
+<img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/fuhongyuan.jpg" width="200" align="right">
 
 ## 基本信息
 - **身份**：2023级硕士研究生
