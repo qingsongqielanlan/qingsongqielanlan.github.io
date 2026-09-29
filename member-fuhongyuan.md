@@ -7,15 +7,15 @@ title: 某某某 - 个人主页
 
 ---
 
-# 某某某
+# 傅宏圆
 
 <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/fuhongyuan.jpg" width="200" align="right">
 
 ## 基本信息
-- **身份**：2023级硕士研究生
-- **导师**：李莉 老师
+- **身份**：2026级硕士研究生
+- **导师**：林典超
 - **研究方向**：城市交通管控、强化学习
-- **邮箱**：xxxx@fzu.edu.cn
+- **邮箱**：2455226269@qq.com
 
 ## 教育经历
 - 2023.09 - 至今：福州大学，土木工程学院，交通运输工程，硕士
