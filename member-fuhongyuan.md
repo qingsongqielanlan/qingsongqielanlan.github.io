@@ -9,7 +9,9 @@ title: 某某某 - 个人主页
 
 # 傅宏圆
 
-<img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/fuhongyuan.jpg" width="200" align="right">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/fuhongyuan.jpg" width="150">
+</p>
 
 ## 基本信息
 - **身份**：2026级硕士研究生
