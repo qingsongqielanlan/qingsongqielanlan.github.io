@@ -11,7 +11,7 @@ title: 研究方向
 
 ## 一、城市快速路/高速路交通管控
 
-<img src="[https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/research1.jpg](https://github.com/qingsongqielanlan/qingsongqielanlan.github.io/raw/main/images/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E9%98%9F%E8%B7%9F%E8%BD%A6%E6%A8%A1%E5%9E%8B.png)" width="400">
+<img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/research1.png" width="400">
 
 针对城市快速路和高速路，研究自动驾驶车队跟车模型、联网车付费换道模型以及车道级管理与控制。福州市三环快速路仿真显示，低、中、高流量下优化后速度提升 26%~33%。
 
