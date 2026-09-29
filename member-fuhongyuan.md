@@ -1,17 +1,16 @@
 ---
 layout: default
-title: 某某某 - 个人主页
+title: 傅宏圆 - 个人主页
 ---
 
 [首页](index.html) | [研究方向](research.html) | [课题组成员](members.html) | [发表论文](publications.html) | [加入我们](joinus.html)
 
 ---
 
-# 傅宏圆
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/fuhongyuan.jpg" width="150">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/fuhongyuan.jpg" width="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h1>傅宏圆</h1>
+</div>
 
 ## 基本信息
 - **身份**：2026级硕士研究生
@@ -24,13 +23,10 @@ title: 某某某 - 个人主页
 - 2019.09 - 2023.06：某某大学，某某学院，某某专业，学士
 
 ## 研究兴趣
-- 城市快速路/高速路交通管控
-- 微观交通仿真与优化
-- 深度学习在交通中的应用
+- 待填写
 
 ## 代表性成果
-- **某某某**, 某某某. 基于强化学习的交叉口信号控制研究[J]. 某某期刊, 2023.
-- 参与国家自然科学基金青年项目（2023-2025）：基于智能交通管理的微观路权实时优化与交易系统设计
+- 待填写
 
 ## 个人格言
-- 越努力，越幸运！
+- 待填写
