@@ -7,9 +7,12 @@ title: 李莉 - 个人主页
 
 ---
 
-<h1 style="margin-top: 0; margin-bottom: 20px; padding-top: 0; font-size: 26px;">李莉 <span style="font-size: 16px; font-weight: normal; color: #777;">副教授、硕士生导师</span></h1>
-
 <table style="width: 100%; border: none; border-collapse: collapse; margin-bottom: 20px;">
+  <tr style="border: none;">
+    <td colspan="2" style="border: none; padding: 0 0 20px 0;">
+      <h1 style="margin: 0; padding: 0; font-size: 32px; font-weight: bold;">李莉 <span style="font-size: 22px; font-weight: bold; color: #555;">副教授、硕士生导师</span></h1>
+    </td>
+  </tr>
   <tr style="border: none;">
     <td style="vertical-align: top; width: 180px; border: none; padding-right: 20px; padding-top: 0;">
       <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/lili.jpg" width="160" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
