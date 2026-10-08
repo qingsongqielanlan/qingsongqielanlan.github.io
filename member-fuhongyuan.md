@@ -7,16 +7,16 @@ title: 傅宏圆 - 个人主页
 
 ---
 
-<table style="width: 100%; border: none; border-collapse: collapse;">
+<table style="width: 100%; border: none; border-collapse: collapse; margin-bottom: 30px;">
   <tr style="border: none;">
-    <td style="vertical-align: top; padding-right: 20px; border: none;">
-      <h1 style="margin-top: 0; padding-top: 0;">傅宏圆</h1>
-      <h2 style="margin-top: 15px;">基本信息</h2>
-      <p><strong>身份</strong>：2026级硕士研究生 &nbsp;&nbsp;|&nbsp;&nbsp; <strong>导师</strong>：林典超</p>
-      <p><strong>研究方向</strong>：城市交通管控、强化学习 &nbsp;&nbsp;|&nbsp;&nbsp; <strong>邮箱</strong>：2455226269@qq.com</p>
+    <td style="vertical-align: top; width: 180px; border: none; padding-right: 20px;">
+      <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/fuhongyuan.jpg" width="160" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </td>
-    <td style="vertical-align: top; width: 160px; text-align: right; border: none;">
-      <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/fuhongyuan.jpg" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-top: 0;">
+    <td style="vertical-align: top; border: none; padding-top: 5px;">
+      <h1 style="margin: 0 0 15px 0; font-size: 28px;">傅宏圆 <span style="font-size: 18px; font-weight: normal; color: #777;">2026级硕士研究生</span></h1>
+      <p style="margin: 8px 0; font-size: 16px;"><strong>导师：</strong> 林典超</p>
+      <p style="margin: 8px 0; font-size: 16px;"><strong>研究方向：</strong> 城市交通管控、强化学习</p>
+      <p style="margin: 8px 0; font-size: 16px;"><strong>邮箱：</strong> 2455226269@qq.com</p>
     </td>
   </tr>
 </table>
