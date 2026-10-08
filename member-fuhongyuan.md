@@ -18,10 +18,7 @@ title: 傅宏圆 - 个人主页
       <p style="margin: 12px 0; font-size: 15px;"><strong>研究方向：</strong> 非机动车/混合交通行为研究</p>
       <p style="margin: 12px 0; font-size: 15px;"><strong>邮箱：</strong> 2455226269@qq.com</p>
       <div style="margin-top: 15px;">
-  <p style="margin: 6px 0; font-size: 15px;"><strong>编程语言：</strong> Python、MATLAB</p>
-  <p style="margin: 6px 0; font-size: 15px;"><strong>仿真与数据分析：</strong> SUMO、Vissim</p>
-  <p style="margin: 6px 0; font-size: 15px;"><strong>网站建设：</strong> GitHub Pages、Markdown、HTML</p>
-</div>
+  <p style="margin: 12px 0; font-size: 15px;"><strong>专业技能：</strong> Python、SUMO、GitHub、Vissim、kinovea</p>
     </td>
   </tr>
 </table>
