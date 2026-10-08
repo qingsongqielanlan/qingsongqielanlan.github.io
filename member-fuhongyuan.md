@@ -9,14 +9,15 @@ title: 傅宏圆 - 个人主页
 
 <table style="width: 100%; border: none; border-collapse: collapse; margin-bottom: 30px;">
   <tr style="border: none;">
-    <td style="vertical-align: top; width: 180px; border: none; padding-right: 20px;">
-      <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/fuhongyuan.jpg" width="160" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <td style="vertical-align: top; width: 140px; border: none; padding-right: 20px;">
+      <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/fuhongyuan.jpg" width="120" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </td>
     <td style="vertical-align: top; border: none; padding-top: 5px;">
-      <h1 style="margin: 0 0 15px 0; font-size: 28px;">傅宏圆 <span style="font-size: 18px; font-weight: normal; color: #777;">2026级硕士研究生</span></h1>
-      <p style="margin: 8px 0; font-size: 16px;"><strong>导师：</strong> 林典超</p>
-      <p style="margin: 8px 0; font-size: 16px;"><strong>研究方向：</strong> 非机动车/混合交通行为研究</p>
-      <p style="margin: 8px 0; font-size: 16px;"><strong>邮箱：</strong> 2455226269@qq.com</p>
+      <h1 style="margin: 0 0 15px 0; font-size: 26px;">傅宏圆 <span style="font-size: 16px; font-weight: normal; color: #777;">2026级硕士研究生</span></h1>
+      <p style="margin: 8px 0; font-size: 15px;"><strong>导师：</strong> 林典超</p>
+      <p style="margin: 8px 0; font-size: 15px;"><strong>研究方向：</strong> 城市交通管控、强化学习</p>
+      <p style="margin: 8px 0; font-size: 15px;"><strong>邮箱：</strong> 2455226269@qq.com</p>
+      <p style="margin: 8px 0; font-size: 15px;"><strong>个人格言：</strong> 越努力，越幸运！</p>
     </td>
   </tr>
 </table>
