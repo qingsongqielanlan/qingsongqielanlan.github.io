@@ -17,19 +17,17 @@ title: 傅宏圆 - 个人主页
       <p style="margin: 12px 0; font-size: 15px;"><strong>导师：</strong> 林典超</p>
       <p style="margin: 12px 0; font-size: 15px;"><strong>研究方向：</strong> 非机动车/混合交通行为研究</p>
       <p style="margin: 12px 0; font-size: 15px;"><strong>邮箱：</strong> 2455226269@qq.com</p>
-      <div style="margin-top: 15px;">
-  <p style="margin: 12px 0; font-size: 15px;"><strong>专业技能：</strong> Python、SUMO、GitHub、Vissim、Kinovea</p>
+      <p style="margin: 12px 0; font-size: 15px;"><strong>专业技能：</strong> Python、SUMO、GitHub、Vissim</p>
     </td>
+  </tr>
+</table>
 
 ## 教育经历
-- 2026.09 - 至今：福州大学，土木工程学院，交通运输，硕士
-- 2022.09 - 2026.07：上海工程技术大学，航空运输学院，交通管理专业，学士
+- 2023.09 - 至今：福州大学，土木工程学院，交通运输工程，硕士
+- 2019.09 - 2023.06：某某大学，某某学院，某某专业，学士
 
 ## 研究兴趣
 - 待填写
 
 ## 代表性成果
-- 待填写
-
-## 个人格言
 - 待填写
