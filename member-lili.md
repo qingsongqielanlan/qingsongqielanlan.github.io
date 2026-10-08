@@ -17,7 +17,7 @@ title: 李莉 - 个人主页
       <p style="margin: 12px 0; font-size: 15px;"><strong>邮箱：</strong> lili@fzu.edu.cn</p>
       <p style="margin: 12px 0; font-size: 15px;"><strong>微信：</strong> 15216717655</p>
       <p style="margin: 12px 0; font-size: 15px;"><strong>单位：</strong> 福州大学土木工程学院</p>
-      <p style="margin: 12px 0; font-size: 15px;"><strong>研究方向：</strong> 智能交通/共享交通、联网车/自动驾驶车/新能源车/非机动车、交通中的博弈优化网络交通管控、车辆限行政策</p>
+      <p style="margin: 12px 0; font-size: 15px;"><strong>研究方向：</strong> 网络交通管理、交通控制、共享出行、网联/自动驾驶车辆、电动汽车</p>
     </td>
   </tr>
 </table>
