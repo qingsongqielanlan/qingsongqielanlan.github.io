@@ -7,7 +7,7 @@ title: 李莉 - 个人主页
 
 ---
 
-<h1 style="margin: 0 0 15px 0; font-size: 26px; padding-top: 0;">李莉 <span style="font-size: 16px; font-weight: normal; color: #777;">副教授、硕士生导师</span></h1>
+<h1 style="margin-top: 0; margin-bottom: 20px; padding-top: 0; font-size: 26px;">李莉 <span style="font-size: 16px; font-weight: normal; color: #777;">副教授、硕士生导师</span></h1>
 
 <table style="width: 100%; border: none; border-collapse: collapse; margin-bottom: 20px;">
   <tr style="border: none;">
@@ -15,10 +15,10 @@ title: 李莉 - 个人主页
       <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/lili.jpg" width="160" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
     </td>
     <td style="vertical-align: top; border: none; padding-top: 5px;">
-      <p style="margin: 8px 0; font-size: 15px;"><strong>邮箱：</strong> lili@fzu.edu.cn</p>
-      <p style="margin: 8px 0; font-size: 15px;"><strong>微信：</strong> 15216717655</p>
-      <p style="margin: 8px 0; font-size: 15px;"><strong>单位：</strong> 福州大学土木工程学院</p>
-      <p style="margin: 8px 0; font-size: 15px;"><strong>主要研究领域：</strong> 智能交通/共享交通、网联车/自动驾驶车/新能源车/非机动车、交通中的博弈优化、网络交通管控、车辆限行政策</p>
+      <div style="margin: 10px 0; font-size: 15px; line-height: 1.6;"><strong>邮箱：</strong> lili@fzu.edu.cn</div>
+      <div style="margin: 10px 0; font-size: 15px; line-height: 1.6;"><strong>微信：</strong> 15216717655</div>
+      <div style="margin: 10px 0; font-size: 15px; line-height: 1.6;"><strong>单位：</strong> 福州大学土木工程学院</div>
+      <div style="margin: 10px 0; font-size: 15px; line-height: 1.6;"><strong>主要研究领域：</strong> 智能交通/共享交通、网联车/自动驾驶车/新能源车/非机动车、交通中的博弈优化、网络交通管控、车辆限行政策</div>
     </td>
   </tr>
 </table>
