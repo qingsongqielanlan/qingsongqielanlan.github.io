@@ -9,24 +9,45 @@ title: 李莉 - 个人主页
 
 <table style="width: 100%; border: none; border-collapse: collapse; margin-bottom: 30px;">
   <tr style="border: none;">
-    <td style="vertical-align: top; width: 180px; border: none; padding-right: 20px;">
-     <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/lili.jpg" width="160" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <td style="vertical-align: top; width: 170px; border: none; padding-right: 20px;">
+      <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/lili.jpg" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </td>
-    <td style="vertical-align: top; border: none; padding-top: 5px;">
-      <h1 style="margin: 0 0 15px 0; font-size: 28px;">李莉 <span style="font-size: 18px; font-weight: normal; color: #777;">副教授</span></h1>
-      <p style="margin: 8px 0; font-size: 16px;"><strong>邮箱：</strong> lili@fzu.edu.cn</p>
-      <p style="margin: 8px 0; font-size: 16px;"><strong>电话：</strong> +86-15216717655</p>
-      <p style="margin: 8px 0; font-size: 16px;"><strong>单位：</strong> 福州大学土木工程学院</p>
-      <p style="margin: 8px 0; font-size: 16px;"><strong>研究方向：</strong> 网络交通管理、交通控制、共享出行、网联/自动驾驶车辆、电动汽车</p>
+    <td style="vertical-align: top; border: none; padding-top: 10px;">
+      <h1 style="margin: 0 0 25px 0; font-size: 26px;">李莉 <span style="font-size: 16px; font-weight: normal; color: #777;">副教授、硕士生导师</span></h1>
+      <p style="margin: 12px 0; font-size: 15px;"><strong>邮箱：</strong> lili@fzu.edu.cn</p>
+      <p style="margin: 12px 0; font-size: 15px;"><strong>微信：</strong> 15216717655</p>
+      <p style="margin: 12px 0; font-size: 15px;"><strong>单位：</strong> 福州大学土木工程学院</p>
+      <p style="margin: 12px 0; font-size: 15px;"><strong>研究方向：</strong> 智能交通管理与控制、网联/自动驾驶、共享出行、电动汽车、网络交通管控、交通博弈优化、车辆限行政策</p>
     </td>
   </tr>
 </table>
+
+## 个人简介
+李莉，1991年8月出生，江西宜春人，工学博士，副教授，硕士生导师，致公党员。2013、2016年分别获得同济大学学士与硕士学位，2021年获得纽约大学博士学位。2016年至2021年任纽约大学阿布扎比分校研究助理，2022年加入福州大学。2022年入选福州大学“旗山学者”奖励支持计划（海外项目），2023年入选福建省引进高层次人才（C类）。主持国家自然科学基金青年基金项目等省部级以上科研项目2项。研究领域主要包括：智能交通管理与控制，联网车/自动驾驶车/共享车/电动汽车/混合交通，网络交通管控，交通中的博弈优化，车辆限行政策。**欢迎感兴趣的同学加入本研究团队（可邮件联系：lili@fzu.edu.cn，或微信：15216717655）！**
 
 ## 教育背景
 - **纽约大学 (New York University)**，交通规划与工程，博士（2016.09 - 2021.09）
 - **同济大学**，交通运输工程，硕士（2009.09 - 2016.07）
 - **同济大学**，交通工程，学士（2009.09 - 2013.07）
 - **同济大学**，环境与可持续发展（辅修）
+
+## 工作经历
+- 2022.01 - 至今：福州大学，土木工程学院，副教授、硕士生导师
+- 2016.09 - 2021.09：纽约大学阿布扎比分校，研究助理
+
+## 科研项目
+- 主持国家自然科学基金青年基金项目等省部级以上科研项目2项
+
+## 荣誉奖项
+- 2023年，入选福建省引进高层次人才（C类）
+- 2022年，入选福州大学“旗山学者”奖励支持计划（海外项目）
+
+## 硕士招生
+- **学术型硕士**：交通安全与灾害防治工程
+- **专业型硕士**：交通运输工程
+
+## 学术任职
+担任《Transportation Science》、《Transportation Research Part C》、《IEEE Transactions on ITS》、《Transportation Research Record》、《Transportmetrica A: Transport Science》等期刊的审稿人
 
 ## 期刊论文
 - Lin, D,C., and Li L.* (2026) Which type of backpressure is more stable?–Comparative analysis based on two-movement intersections. Transportation Research Part C: Emerging Technologies, 2026, 183: 105478.
