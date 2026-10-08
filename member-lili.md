@@ -10,7 +10,7 @@ title: 李莉 - 个人主页
 <table style="width: 100%; border: none; border-collapse: collapse; margin-bottom: 30px;">
   <tr style="border: none;">
     <td style="vertical-align: top; width: 180px; border: none; padding-right: 20px;">
-      <img src="[https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/lili.jpg](https://raw.githubusercontent.com/.../images/lili.jpg)" width="160" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+     <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/lili.jpg" width="160" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </td>
     <td style="vertical-align: top; border: none; padding-top: 5px;">
       <h1 style="margin: 0 0 15px 0; font-size: 28px;">李莉 <span style="font-size: 18px; font-weight: normal; color: #777;">副教授</span></h1>
