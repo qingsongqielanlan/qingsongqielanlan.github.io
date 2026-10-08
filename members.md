@@ -10,8 +10,8 @@ title: 课题组成员
 # 课题组成员
 
 ## 指导教师
-- 李莉
-- 林典超
+- [李莉](member-lili.html)
+- [林典超](member-lindianchao.html)
 
 ## 2026级硕士
 - [曹雯](member-caowen.html)
