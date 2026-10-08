@@ -20,8 +20,6 @@ title: 傅宏圆 - 个人主页
       <div style="margin-top: 15px;">
   <p style="margin: 12px 0; font-size: 15px;"><strong>专业技能：</strong> Python、SUMO、GitHub、Vissim、Kinovea</p>
     </td>
-  </tr>
-</table>
 
 ## 教育经历
 - 2026.09 - 至今：福州大学，土木工程学院，交通运输，硕士
