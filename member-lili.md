@@ -7,13 +7,13 @@ title: 李莉 - 个人主页
 
 ---
 
-<table style="width: 100%; border: none; border-collapse: collapse; margin-bottom: 10px;">
+<table style="width: 100%; border: none; border-collapse: collapse; margin-bottom: 20px;">
   <tr style="border: none;">
-    <td style="vertical-align: top; width: 150px; border: none; padding-right: 20px;">
-      <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/lili.jpg" width="120" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <td style="vertical-align: top; width: 170px; border: none; padding-right: 20px; padding-top: 0;">
+      <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/lili.jpg" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
     </td>
-    <td style="vertical-align: top; border: none; padding-top: 5px;">
-      <h1 style="margin: 0 0 15px 0; font-size: 26px;">李莉 <span style="font-size: 16px; font-weight: normal; color: #777;">副教授、硕士生导师</span></h1>
+    <td style="vertical-align: top; border: none; padding-top: 0;">
+      <h1 style="margin: 0 0 15px 0; font-size: 26px; padding-top: 0;">李莉 <span style="font-size: 16px; font-weight: normal; color: #777;">副教授、硕士生导师</span></h1>
       <p style="margin: 8px 0; font-size: 15px;"><strong>邮箱：</strong> lili@fzu.edu.cn</p>
       <p style="margin: 8px 0; font-size: 15px;"><strong>微信：</strong> 15216717655</p>
       <p style="margin: 8px 0; font-size: 15px;"><strong>单位：</strong> 福州大学土木工程学院</p>
@@ -22,7 +22,7 @@ title: 李莉 - 个人主页
   </tr>
 </table>
 
-<h2 style="margin-top: 10px; margin-bottom: 10px;">个人简介</h2>
+<h2 style="margin-top: 15px; margin-bottom: 10px;">个人简介</h2>
 
 <p style="text-align: justify; font-size: 15px; line-height: 1.8; margin-top: 0;">
 李莉，1991年8月出生，江西宜春人，工学博士，副教授，硕士生导师，致公党员。2013、2016年分别获得同济大学学士与硕士学位，2021年获得纽约大学博士学位。2016年至2021年任纽约大学阿布扎比分校研究助理，2022年加入福州大学。2022年入选福州大学“旗山学者”奖励支持计划（海外项目），2023年入选福建省引进高层次人才（C类）。主持国家自然科学基金青年基金项目等省部级以上科研项目2项。研究领域主要包括：智能交通管理与控制，联网车/自动驾驶车/共享车/电动汽车/混合交通，网络交通管控，交通中的博弈优化，车辆限行政策。<strong>欢迎感兴趣的同学加入本研究团队（可邮件联系：lili@fzu.edu.cn，或微信：15216717655）！</strong>
