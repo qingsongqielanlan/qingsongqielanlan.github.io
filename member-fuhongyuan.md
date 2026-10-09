@@ -10,7 +10,7 @@ title: 傅宏圆 - 个人主页
 <table style="width: 100%; border: none; border-collapse: collapse; margin-bottom: 30px;">
   <tr style="border: none;">
     <td style="vertical-align: top; width: 170px; border: none; padding-right: 20px;">
-      <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/fuhongyuan.jpg" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <img src="https://cdn.jsdelivr.net/gh/qingsongqielanlan/qingsongqielanlan.github.io@main/images/fuhongyuan.jpg" width="160" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
     </td>
     <td style="vertical-align: top; border: none; padding-top: 10px;">
       <h1 style="margin: 0 0 25px 0; font-size: 26px;">傅宏圆 <span style="font-size: 16px; font-weight: normal; color: #777;">2026级硕士研究生</span></h1>
