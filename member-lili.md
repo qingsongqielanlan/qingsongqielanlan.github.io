@@ -15,7 +15,7 @@ title: 李莉 - 个人主页
   </tr>
   <tr style="border: none;">
     <td style="vertical-align: top; width: 180px; border: none; padding-right: 20px; padding-top: 0;">
-      <img src="https://raw.githubusercontent.com/qingsongqielanlan/qingsongqielanlan.github.io/main/images/lili.jpg" width="160" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
+      <img src="https://cdn.jsdelivr.net/gh/qingsongqielanlan/qingsongqielanlan.github.io@main/images/lili.jpg" width="160" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
     </td>
     <td style="vertical-align: top; border: none; padding-top: 5px;">
       <div style="margin: 10px 0; font-size: 18px; line-height: 1.6;"><strong>邮箱：</strong> lili@fzu.edu.cn</div>
