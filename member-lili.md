@@ -44,9 +44,9 @@ title: 李莉 - 个人主页
 - 2016.7 - 2021.8，纽约大学阿布扎比分校，土木工程系，研究助理
 
 ## 主持国家级项目
-- • 国家自然科学基金青年项目，2023.01-2025.12（结题）：基于智能交通管理的微观路权实时优化与交易系统设计
-- • 国家自然科学基金青年项目，2024.01-2026.12（在研）：基于即时供给预测的城市路网实时控制系统设计
-- • 国家自然科学基金面上项目，2026.01-2029.12（在研）：基于智能交通的车辆柔性限行管理机制设计
+-  国家自然科学基金青年项目，2023.01-2025.12（结题）：基于智能交通管理的微观路权实时优化与交易系统设计
+-  国家自然科学基金青年项目，2024.01-2026.12（在研）：基于即时供给预测的城市路网实时控制系统设计
+-  国家自然科学基金面上项目，2026.01-2029.12（在研）：基于智能交通的车辆柔性限行管理机制设计
 
 ## 荣誉奖项
 - 2023年，入选福建省引进高层次人才（C类）
@@ -60,6 +60,7 @@ title: 李莉 - 个人主页
 担任《Transportation Science》、《Transportation Research Part C》、《IEEE Transactions on ITS》、《Transportation Research Record》、《Transportmetrica A: Transport Science》等期刊的审稿人
 
 ## 期刊论文
+Journal Publications
 - Lin, D,C., and Li L.* (2026) Which type of backpressure is more stable?–Comparative analysis based on two-movement intersections. Transportation Research Part C: Emerging Technologies, 2026, 183: 105478.
 - Li, L., Jiang, X.Q., and Lin, D.C.* (2025) On an interlocking flexible car use restriction policy: theory, learning and experiment. Transportation Science, 2025, 59(5): 883-908.
 - Li, L., Shi, Y.L., Lin, D.C.*, and Lu, Y.L. (2025) Impact of electric vehicle downsizing on shared mobility considering externalities. Transportation Research Part D: Transport and Environment, 2025, 145: 104794.
