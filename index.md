@@ -9,11 +9,11 @@ title: 智慧城市与智能交通课题组
 
 <table style="width: 100%; border: none; border-collapse: collapse; margin-bottom: 30px;">
   <tr style="border: none;">
-    <td style="vertical-align: middle; width: 50%; border: none; padding-right: 20px;">
-      <!-- 注意：把下面这行照片链接换成你中秋聚餐合照的jsDelivr链接 -->
+    <td style="vertical-align: top; width: 50%; border: none; padding-right: 20px; padding-top: 0;">
+      <!-- 注意：下面这行是你的中秋聚餐合照链接 -->
       <img src="https://cdn.jsdelivr.net/gh/qingsongqielanlan/qingsongqielanlan.github.io@main/images/zhongqiu.jpg" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
     </td>
-    <td style="vertical-align: middle; border: none; padding-left: 10px;">
+    <td style="vertical-align: top; border: none; padding-left: 10px; padding-top: 0;">
       <h1 style="margin: 0 0 15px 0; font-size: 28px; line-height: 1.4;">智慧城市与智能交通课题组</h1>
       <h2 style="margin: 0 0 15px 0; font-size: 20px; font-weight: normal; color: #555;">ITS Lab</h2>
       <p style="margin: 0; font-size: 16px; line-height: 1.8; color: #333;">“让城市出行更安全、更高效、更绿色”</p>
