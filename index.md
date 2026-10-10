@@ -11,7 +11,7 @@ title: 智慧城市与智能交通课题组
   <tr style="border: none;">
     <td style="vertical-align: middle; width: 50%; border: none; padding-right: 20px;">
       <!-- 注意：把下面这行照片链接换成你中秋聚餐合照的jsDelivr链接 -->
-      <img src="https://cdn.jsdelivr.net/gh/qingsongqielanlan/qingsongqielanlan.github.io@main/images/group-photo.jpg" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
+      <img src="https://cdn.jsdelivr.net/gh/qingsongqielanlan/qingsongqielanlan.github.io@main/images/zhongqiu.jpg" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
     </td>
     <td style="vertical-align: middle; border: none; padding-left: 10px;">
       <h1 style="margin: 0 0 15px 0; font-size: 28px; line-height: 1.4;">智慧城市与智能交通课题组</h1>
